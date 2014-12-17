@@ -2,7 +2,7 @@
 
 /**
  * maintains an array-like collection of distinct scalar values.
- * @author  Adrian Testa-Avila <adrian@ATapp.info>
+ * @author  Adrian Testa-Avila <adrian@enspi.red>
  * @license GPL v3
  */
 class ArraySet extends ArrayObject{
